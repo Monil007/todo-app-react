@@ -7,10 +7,10 @@ This is a frontend Todo app built with React JS framework
 To run this app you will need [Node.js](https://nodejs.org/en/download/
 ) installed on you computer
 
-1) Install all the required packages using the following command on a terminal
+1) Install all the required packages using the following command on a terminal from the rood directory
 ### `npm install`
 
-2) To start server on localhost:3000/ run the following command
+2) To start server on localhost:3000/ run the following command from the root directory
 ### `npm start`
 
 This should start the app in your default browser
